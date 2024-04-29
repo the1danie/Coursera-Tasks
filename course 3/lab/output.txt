@@ -1,0 +1,6 @@
+total 1
+drwxr-xr-x 1 genii 197609  0 Apr 29 14:53 dir1/
+drwxr-xr-x 1 genii 197609  0 Apr 29 14:58 dir2/
+-rw-r--r-- 1 genii 197609  0 Apr 29 14:58 file3.txt
+-rw-r--r-- 1 genii 197609 30 Apr 29 15:12 lab3.txt
+-rw-r--r-- 1 genii 197609  0 Apr 29 15:14 output.txt
